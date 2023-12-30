@@ -1,5 +1,0 @@
-1. OOP version
-2. tongue extension (space bar)
-3. cheating button (can go though wall)
-4. speed increases from slow to fast (linux or window version)
-
